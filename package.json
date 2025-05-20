@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser Based Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thor-ux/defender-game.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Thor-UX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thor-ux/defender-game/issues"
+  },
+  "homepage": "https://github.com/Thor-ux/defender-game#readme"
+}
