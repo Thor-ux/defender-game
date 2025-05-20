@@ -1,7 +1,7 @@
 # defender-game
 Browser based game
 
-##Description 
+## Description 
 
 This project is a browser-based game called Defender. 
 
