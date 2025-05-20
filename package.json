@@ -4,7 +4,7 @@
   "description": "Browser Based Game",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel src -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,19 @@
   "bugs": {
     "url": "https://github.com/Thor-ux/defender-game/issues"
   },
-  "homepage": "https://github.com/Thor-ux/defender-game#readme"
+  "homepage": "https://github.com/Thor-ux/defender-game#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.27.2",
+    "@babel/core": "^7.27.1",
+    "@babel/preset-env": "^7.27.2",
+    "@eslint/js": "^9.27.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^8.57.1",
+    "globals": "^16.1.0"
+  },
+  "dependencies": {
+    "babel": "^5.8.38",
+    "core-js": "^3.42.0"
+  }
 }
